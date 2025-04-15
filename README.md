@@ -25,19 +25,19 @@ This is a simple Java program that models student information using a myStudent 
 
 ## **1. Clone the Repository**
 
-```
+```java
 git clone https://github.com/your-username/Java-OCA-Practice.git
 cd Java-OCA-Practice
-```java
+```
 
 ## **2. Compile the Program**
 
-```java
+```
 javac Main.java myStudent.java
 ```
 
 ## **3. Run the Program**
-```java
+```
 java Main
 ```
 
