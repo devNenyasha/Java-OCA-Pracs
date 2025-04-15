@@ -81,12 +81,10 @@ This is a personal learning space, but if you're an instructor, mentor, or learn
 
 This repository is open-source under the MIT License. You're free to use, modify, and share for learning or personal growth.
 
-## 💪 Author
+## 💪 Author: Melody Mbewe  
 
-## Melody Mbewe  
 💻 Software Developer | CKAD | Open-Source Enthusiast
 🌟 Passionate about creating robust applications, DevOps, contributing to open-source projects, and engaging with the tech community.
-📍 Zimbabwe
 
 "Building better software through continuous learning and community engagement." 
 
