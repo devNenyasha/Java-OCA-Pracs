@@ -28,23 +28,23 @@ This is a simple Java program that models student information using a myStudent 
 ```
 git clone https://github.com/your-username/Java-OCA-Practice.git
 cd Java-OCA-Practice
-```
+```java
 
 ## **2. Compile the Program**
 
-```
+```java
 javac Main.java myStudent.java
 ```
 
 ## **3. Run the Program**
-```
+```java
 java Main
 ```
 
 ## **Code Overview**
 
 ## **Main.java**
-```
+```java
 public class Main {
 public static void main(String[] args) {
 // Student objects
@@ -59,7 +59,7 @@ myStudent student2 = new myStudent("Lisa", 22, "ST203", 45.0);
 ```
 
 ## **myStudent.java**
-```
+```java
 public class myStudent {
     private String name;
     private int age;
@@ -132,7 +132,7 @@ public class myStudent {
 ```
 
 ## **Expected Output**
-```
+```java
 Name: Alex
 Age: 20
 Student ID: ST102
