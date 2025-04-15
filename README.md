@@ -1,32 +1,49 @@
-### Java Student Management Program ###
+# **Java Student Management Program**
 
-Description
+## **Description**
+
 This is a simple Java program that models student information using a myStudent class. It demonstrates object-oriented programming (OOP) principles such as encapsulation, constructors, getters & setters, method overriding, and the toString() method for object representation.
 
-Features
-Stores student details: name, age, student ID, and average grade
+## **Features**
 
-Prints student information using toString()
+* Stores student details: name, age, student ID, and average grade
 
-Determines if a student has passed (average grade >= 50.0)
+* Prints student information using toString()
 
-Demonstrates object creation and method calls in the main() method
+* Determines if a student has passed (average grade >= 50.0)
 
-Technologies Used
-Java (JDK 11, 17, or 21)
+* Demonstrates object creation and method calls in the main() method
 
-IntelliJ IDEA (Recommended for development)
+## **Technologies Used**
 
-How to Run
-1. Clone the Repository
+* Java (JDK 11, 17, or 21)
+
+* IntelliJ IDEA (Recommended for development)
+
+## **How to Run**
+
+## **1. Clone the Repository**
+
+```
 git clone https://github.com/your-username/Java-OCA-Practice.git
 cd Java-OCA-Practice
-2. Compile the Program
+```
+
+## **2. Compile the Program**
+
+```
 javac Main.java myStudent.java
-3. Run the Program
+```
+
+## **3. Run the Program**
+```
 java Main
-Code Overview
-Main.java
+```
+
+## **Code Overview**
+
+## **Main.java**
+```
 public class Main {
 public static void main(String[] args) {
 // Student objects
@@ -38,7 +55,10 @@ myStudent student2 = new myStudent("Lisa", 22, "ST203", 45.0);
         System.out.println(student2);
     }
 }
-myStudent.java
+```
+
+## **myStudent.java**
+```
 public class myStudent {
     private String name;
     private int age;
@@ -107,7 +127,11 @@ public class myStudent {
                 "----------------------";
     }
 }
-Expected Output
+
+```
+
+## **Expected Output**
+```
 Name: Alex
 Age: 20
 Student ID: ST102
@@ -120,12 +144,17 @@ Student ID: ST203
 Average Grade: 45.0
 Passed: false
 ----------------------
-Future Improvements
-Add user input for dynamic student creation
+```
 
-Store multiple students in a list
+## **Future Improvements**
 
-Implement file handling to save student data
+* Add user input for dynamic student creation
 
-License
+* Store multiple students in a list
+
+* Implement file handling to save student data
+
+
+## **License**
+
 This project is open-source. Feel free to modify and improve it!
