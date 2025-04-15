@@ -83,9 +83,11 @@ This repository is open-source under the MIT License. You're free to use, modify
 
 ## 💪 Author
 
-Melody Mbewe  
-💻 Digital Marketer & Aspiring Java Developer  
-📍 Zimbabwe  
-🌟 Passionate about tech, DevOps, and career transformation
+## Melody Mbewe  
+💻 Software Developer | CKAD | Open-Source Enthusiast
+🌟 Passionate about creating robust applications, DevOps, contributing to open-source projects, and engaging with the tech community.
+📍 Zimbabwe
+
+"Building better software through continuous learning and community engagement." 
 
 "Learning one line of code at a time. One project at a time." – Mel ❤️
